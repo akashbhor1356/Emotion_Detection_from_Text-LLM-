@@ -37,5 +37,5 @@ I will solve the above-mentioned challenge by applying deep learning algorithms 
 
 6. It was an amazing and fascinating project. This has taught me a lot.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-jagtap-b93a771a/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-bhor-b62503149/)
 
