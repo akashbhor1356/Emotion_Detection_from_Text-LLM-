@@ -1,7 +1,7 @@
 <p align="center"> 
   <img src="images/2.png" alt="2.png" width="80px" height="80px">
 <h1 align="center"> Face-emotion-Recognition  </h1> 
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
+<h3 align="center"> <">  </a> </h5>
      
 <p align="center"> 
 <img src="images/all.gif" alt="all.gif" height="382px">
@@ -20,8 +20,8 @@ Deep learning backed system not only solves the surveillance issue, but it also 
 
 I will solve the above-mentioned challenge by applying deep learning algorithms to live video data. The solution to this problem is by recognizing facial emotions.
 
-<h2> 🔗:Dataset link</h2>
-(https://www.kaggle.com/deadskull7/fer2013)
+<h2> >
+()
 
 # 
 <h2> :book:Conclusion</h2>
