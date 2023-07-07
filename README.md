@@ -2,7 +2,7 @@
   <img src="images/2.png" alt="2.png" width="80px" height="80px">
 <h1 align="center"> Emotion Detection from Text(LLM)  </h1> 
 <h3 align="center"> <Emotion Detection from Text(LLM)>  </a> </h5>
-     
+<h2> :book:LLM (Large Language Model)</h2>   
 <p align="center"> 
 <img src="images/all.gif" alt="all.gif" height="382px">
 </p>
